@@ -3,7 +3,7 @@
 
 Ben bir yazılım geliştiricisiyim. İşte bazı projelerim:
 
-- 🛠️ [My Web Site](https://github.com/user-attachments/assets/03f3e74a-91d0-409d-992e-2bd15e9bc7cc)
+- 🛠️ [My Web Site](https://my-website-azure-iota.vercel.app/)
 
 - 📚 [Pizza Challenge](https://github.com/sinemablak/pizza-challenge)
 
