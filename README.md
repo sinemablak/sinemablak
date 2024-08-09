@@ -1,5 +1,5 @@
 
-# Merhaba, Ben Sinem Ablak 👋
+# Hello, I'm Sinem Ablak 👋
 
 I am a software developer. Here are some of my projects:
 
