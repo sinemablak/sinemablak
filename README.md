@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**sinemablak/sinemablak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Merhaba, Ben [Sinem Ablak] 👋
 
-Here are some ideas to get you started:
+Ben bir yazılım geliştiricisiyim. İşte bazı projelerim:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠️ [My Web Site](https://github.com/user-attachments/assets/03f3e74a-91d0-409d-992e-2bd15e9bc7cc)
+)
+- 📚 [Pizza Challenge](https://github.com/sinemablak/pizza-challenge)
+
+## 🎯 Hedeflerim
+- 🖥️ Web Geliştirme
+- 📱 Mobil Uygulama Geliştirme
+- 📊 Veri Bilimi
+
+## 🛠️ Yeteneklerim
+- JavaScript, React
+- Java
+
+
+
