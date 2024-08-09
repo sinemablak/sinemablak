@@ -1,7 +1,7 @@
 
 # Merhaba, Ben Sinem Ablak 👋
 
-Ben bir yazılım geliştiricisiyim. İşte bazı projelerim:
+I am a software developer. Here are some of my projects:
 
 - 🛠️ [My Web Site](https://my-website-azure-iota.vercel.app/)
 
